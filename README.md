@@ -15,10 +15,10 @@ Classic Winamp 2.x media player, rebuilt with Next.js 14 and TypeScript.
 
 ## Quick Start
 
-### Prerequisites
+### Prerequisi
 - Node.js 18+ installed ([nodejs.org](https://nodejs.org))
 
-### Install & run
+### Install
 
 ```bash
 # 1. Install dependencies
